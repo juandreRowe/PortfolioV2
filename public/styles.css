@@ -1,0 +1,28 @@
+/* Element Selectors */
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'pt_sansregular', Corbel, sans-serif !important;
+    color: var(--por-primary)
+}
+
+html {
+    font-family: 'pt_sansregular', Corbel, sans-serif !important;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'pt_sansregular', Corbel, sans-serif !important;
+}
+
+/* Color Palette */
+
+:root {
+    --por-primary: '#F0000F';
+    --por-secondary: '#F00FFF';
+}
+
+.bg{
+    background-image: url("./bg.jpg");
+}
